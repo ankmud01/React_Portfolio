@@ -4,7 +4,7 @@ import { Nav } from 'react-bootstrap';
 
 export default function Navigation() {
   return (
-    <Nav defaultActiveKey='/home' as='ul'>
+    <Nav>
       <Link
         to='/'
         className={useLocation.pathname === '/' === 'About' ? 'nav-link-active': 'nav-link'}>
