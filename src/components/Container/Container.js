@@ -13,11 +13,9 @@ export default function Container() {
         <div className='container fluid maincontainer'>
             <div className='row'>
                 <Jumbotron fluid>
-                    <div>
                         <Route exact path='/' component={About} />
-                        <Route exact path='/portfolio' component={withRouter(Projects)} />
+                        <Route exact path='/portfolio' component={Projects} />
                         <Route exact path='/contact' component={Contact} />
-                    </div>
                 </Jumbotron>
             </div>
         </div>
