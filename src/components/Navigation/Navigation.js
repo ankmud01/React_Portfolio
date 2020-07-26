@@ -7,28 +7,17 @@ export default function Navigation() {
     <Nav defaultActiveKey='/home' as='ul'>
       <Link
         to='/'
-        className={
-          (useLocation.pathname === '/') === 'About'
-            ? 'nav-link-active'
-            : 'nav-link'
-        }
-      >
+        className={(useLocation.pathname === '/') === 'About' ? 'nav-link-active': 'nav-link'}>
         About
       </Link>
       <Link
         to='/portfolio'
-        className={
-          useLocation.pathname === '/portfolio' ? 'nav-link-active' : 'nav-link'
-        }
-      >
+        className={useLocation.pathname === '/portfolio' ? 'nav-link-active' : 'nav-link'}>
         Portfolio
       </Link>
       <Link
         to='/contact'
-        className={
-          useLocation.pathname === '/contact' ? 'nav-link-active' : 'nav-link'
-        }
-      >
+        className={useLocation.pathname === '/contact' ? 'nav-link-active' : 'nav-link'}>
         Contact Me
       </Link>
     </Nav>

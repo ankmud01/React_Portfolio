@@ -1,0 +1,36 @@
+/* .m-modal {
+    position: fixed; 
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    overflow: auto;
+ }
+    
+.m-modal::before {    
+    content: "";
+    background-image: url(../../background.jpg);
+    background-size: cover;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.3;
+}
+.maincontainer{
+    display:table;
+    width: 100%;
+    margin-top: -20px;
+    padding-left: 30px;
+    box-sizing: border-box;
+} */
+
+.row{
+    margin-left: 100px;
+}
+
+.jumbotron{
+    margin-top: 80px;
+    text-align: left;
+}

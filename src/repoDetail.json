@@ -1,0 +1,74 @@
+[
+    {
+    "id": 1,
+    "name": "About_me",
+    "git_url": "https://github.com/ankmud01/About_me",
+    "description": "Using CSS and Bootstrap to create a responsive portfolio",
+    "homepage": "https://ankmud01.github.io/About_me/",
+    "image": "profilepic.jpg",
+    "techhology": ["Materialize CSS", "jQuery Modal", "JavaScript", "Node.Js", "NPM Packages", "MySQL", "Express", "Handlebars", "Sequelize", "Passport", "Express-session", "Stripe", "Nodemailer"]
+    },
+    {
+    "id": 2,
+    "name": "Eat_da_Burger",
+    "git_url": "https://github.com/ankmud01/Eat_da_Burger",
+    "description": "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.  It is a burger logger application with MySQL, Node, Express, Handlebars and a homemade ORM, which follows the MVC pattern ",
+    "homepage": "https://myburgerhouse.herokuapp.com/",
+    "image":"07myBurgerHouse.png",
+    "techhology": ["Materialize CSS", "jQuery Modal", "JavaScript", "Node.Js", "NPM Packages", "MySQL", "Express", "Handlebars", "Sequelize", "Passport", "Express-session", "Stripe", "Nodemailer"]
+    },
+    {
+    "id": 3,
+    "name": "Employee_Directory",
+    "git_url": "https://github.com/ankmud01/Employee_Directory",
+    "description": "An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.",
+    "homepage": "https://ankmud01.github.io/Employee_Directory/",
+    "image":"employeeDirectory.png",
+    "techhology": ["Materialize CSS", "jQuery Modal", "JavaScript", "Node.Js", "NPM Packages", "MySQL", "Express", "Handlebars", "Sequelize", "Passport", "Express-session", "Stripe", "Nodemailer"]
+    },
+    {
+    "id": 4,
+    "name": "NoteTaker",
+    "git_url": "https://github.com/ankmud01/NoteTaker",
+    "description": "This is an application that can be used to write, save, and delete notes. This application uses an express backend and save and retrieve note data from a JSON file.",
+    "homepage": "https://simplenotetaker.herokuapp.com/",
+    "image":"noteTaker.png",
+    "techhology": ["Materialize CSS", "jQuery Modal", "JavaScript", "Node.Js", "NPM Packages", "MySQL", "Express", "Handlebars", "Sequelize", "Passport", "Express-session", "Stripe", "Nodemailer"]
+    },
+    {
+    "id": 5,
+    "name": "Password-Generator",
+    "git_url": "https://github.com/ankmud01/Password-Generator",
+    "description": "Password Generator",
+    "homepage": "https://ankmud01.github.io/Password-Generator/",
+    "image":"01PasswordGenerator.png",
+    "techhology": ["Materialize CSS", "jQuery Modal", "JavaScript", "Node.Js", "NPM Packages", "MySQL", "Express", "Handlebars", "Sequelize", "Passport", "Express-session", "Stripe", "Nodemailer"]
+    },
+    {
+    "id": 6,
+    "name": "ProgressiveBudgetTracker",
+    "git_url": "https://github.com/ankmud01/ProgressiveBudgetTracker",
+    "description": " App allows user to add expenses and deposits to their budget with or without a connection. If user enters a transactions offline, it will populate the total when brought back online.",
+    "homepage": "https://myofflinebudgettracker.herokuapp.com/",
+    "image":"offlinebudgetTracker.png",
+    "techhology": ["Materialize CSS", "jQuery Modal", "JavaScript", "Node.Js", "NPM Packages", "MySQL", "Express", "Handlebars", "Sequelize", "Passport", "Express-session", "Stripe", "Nodemailer"]
+    },
+    {
+    "id": 7,
+    "name": "SilentAuctionGallery",
+    "html_url": "https://github.com/ankmud01/SilentAuctionGallery",
+    "description": "A webpage to display student artwork with comments and host as a silent auction",
+    "homepage": "https://silentauctiongallery.herokuapp.com/",
+    "image":"01PasswordGenerator.png",
+    "techhology": ["Materialize CSS", "jQuery Modal", "JavaScript", "Node.Js", "NPM Packages", "MySQL", "Express", "Handlebars", "Sequelize", "Passport", "Express-session", "Stripe", "Nodemailer"]
+    },
+    {
+    "id": 8,
+    "name": "StoresNearBy",
+    "html_url": "https://github.com/ankmud01/StoresNearBy",
+    "description": "StoresNearBy",
+    "homepage": "https://ankmud01.github.io/StoresNearBy/.",
+    "image":"05StoresNearBy.png",
+    "techhology": ["Materialize CSS", "jQuery Modal", "JavaScript", "Node.Js", "NPM Packages", "MySQL", "Express", "Handlebars", "Sequelize", "Passport", "Express-session", "Stripe", "Nodemailer"]
+    }
+]
