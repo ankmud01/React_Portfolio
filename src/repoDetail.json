@@ -1,15 +1,6 @@
 [
     {
     "id": 1,
-    "name": "About_me",
-    "git_url": "https://github.com/ankmud01/About_me",
-    "description": "Using CSS and Bootstrap to create a responsive portfolio",
-    "homepage": "https://ankmud01.github.io/About_me/",
-    "image": "profilepic.jpg",
-    "techhology": ["Materialize CSS", "jQuery Modal", "JavaScript", "Node.Js", "NPM Packages", "MySQL", "Express", "Handlebars", "Sequelize", "Passport", "Express-session", "Stripe", "Nodemailer"]
-    },
-    {
-    "id": 2,
     "name": "Eat_da_Burger",
     "git_url": "https://github.com/ankmud01/Eat_da_Burger",
     "description": "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.  It is a burger logger application with MySQL, Node, Express, Handlebars and a homemade ORM, which follows the MVC pattern ",
@@ -18,7 +9,7 @@
     "techhology": ["Materialize CSS", "jQuery Modal", "JavaScript", "Node.Js", "NPM Packages", "MySQL", "Express", "Handlebars", "Sequelize", "Passport", "Express-session", "Stripe", "Nodemailer"]
     },
     {
-    "id": 3,
+    "id": 2,
     "name": "Employee_Directory",
     "git_url": "https://github.com/ankmud01/Employee_Directory",
     "description": "An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.",
@@ -27,7 +18,7 @@
     "techhology": ["Materialize CSS", "jQuery Modal", "JavaScript", "Node.Js", "NPM Packages", "MySQL", "Express", "Handlebars", "Sequelize", "Passport", "Express-session", "Stripe", "Nodemailer"]
     },
     {
-    "id": 4,
+    "id": 3,
     "name": "NoteTaker",
     "git_url": "https://github.com/ankmud01/NoteTaker",
     "description": "This is an application that can be used to write, save, and delete notes. This application uses an express backend and save and retrieve note data from a JSON file.",
@@ -36,7 +27,7 @@
     "techhology": ["Materialize CSS", "jQuery Modal", "JavaScript", "Node.Js", "NPM Packages", "MySQL", "Express", "Handlebars", "Sequelize", "Passport", "Express-session", "Stripe", "Nodemailer"]
     },
     {
-    "id": 5,
+    "id": 4,
     "name": "Password-Generator",
     "git_url": "https://github.com/ankmud01/Password-Generator",
     "description": "Password Generator",
@@ -45,7 +36,7 @@
     "techhology": ["Materialize CSS", "jQuery Modal", "JavaScript", "Node.Js", "NPM Packages", "MySQL", "Express", "Handlebars", "Sequelize", "Passport", "Express-session", "Stripe", "Nodemailer"]
     },
     {
-    "id": 6,
+    "id": 5,
     "name": "ProgressiveBudgetTracker",
     "git_url": "https://github.com/ankmud01/ProgressiveBudgetTracker",
     "description": " App allows user to add expenses and deposits to their budget with or without a connection. If user enters a transactions offline, it will populate the total when brought back online.",
@@ -54,7 +45,7 @@
     "techhology": ["Materialize CSS", "jQuery Modal", "JavaScript", "Node.Js", "NPM Packages", "MySQL", "Express", "Handlebars", "Sequelize", "Passport", "Express-session", "Stripe", "Nodemailer"]
     },
     {
-    "id": 7,
+    "id": 6,
     "name": "SilentAuctionGallery",
     "html_url": "https://github.com/ankmud01/SilentAuctionGallery",
     "description": "A webpage to display student artwork with comments and host as a silent auction",
@@ -63,7 +54,7 @@
     "techhology": ["Materialize CSS", "jQuery Modal", "JavaScript", "Node.Js", "NPM Packages", "MySQL", "Express", "Handlebars", "Sequelize", "Passport", "Express-session", "Stripe", "Nodemailer"]
     },
     {
-    "id": 8,
+    "id": 7,
     "name": "StoresNearBy",
     "html_url": "https://github.com/ankmud01/StoresNearBy",
     "description": "StoresNearBy",
