@@ -2,7 +2,7 @@
   text-align: center;
 }
 
-styles={{ backgroundImage:`url(${car})` }}
+/* styles={{ backgroundImage:`url(${car})` }} */
 
 .App-logo {
   height: 40vmin;
