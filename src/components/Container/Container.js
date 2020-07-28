@@ -14,6 +14,7 @@ export default function Container() {
             <Route exact path="/" component={About} />
             <Route exact path="/portfolio" component={Projects} />
             <Route exact path="/contact" component={Contact} />
+            <Route exact path="*" component={About}/>
         </div>
     </div>
   );
