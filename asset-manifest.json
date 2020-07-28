@@ -1,22 +1,37 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.45372f12.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.1709ceb6.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.1709ceb6.chunk.js.map",
+    "main.css": "/React_Portfolio/static/css/main.b7033f84.chunk.css",
+    "main.js": "/React_Portfolio/static/js/main.028ab09c.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.028ab09c.chunk.js.map",
     "runtime-main.js": "/React_Portfolio/static/js/runtime-main.a4a4b560.js",
     "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.a4a4b560.js.map",
-    "static/js/2.a8b45d86.chunk.js": "/React_Portfolio/static/js/2.a8b45d86.chunk.js",
-    "static/js/2.a8b45d86.chunk.js.map": "/React_Portfolio/static/js/2.a8b45d86.chunk.js.map",
+    "static/js/2.b9da4210.chunk.js": "/React_Portfolio/static/js/2.b9da4210.chunk.js",
+    "static/js/2.b9da4210.chunk.js.map": "/React_Portfolio/static/js/2.b9da4210.chunk.js.map",
     "index.html": "/React_Portfolio/index.html",
-    "precache-manifest.09481e5d19b3f1d02aceab9c452885b1.js": "/React_Portfolio/precache-manifest.09481e5d19b3f1d02aceab9c452885b1.js",
+    "precache-manifest.99fdf7f5664fc73706088e8aaba54165.js": "/React_Portfolio/precache-manifest.99fdf7f5664fc73706088e8aaba54165.js",
     "service-worker.js": "/React_Portfolio/service-worker.js",
-    "static/css/main.45372f12.chunk.css.map": "/React_Portfolio/static/css/main.45372f12.chunk.css.map",
-    "static/js/2.a8b45d86.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.a8b45d86.chunk.js.LICENSE.txt"
+    "static/css/main.b7033f84.chunk.css.map": "/React_Portfolio/static/css/main.b7033f84.chunk.css.map",
+    "static/js/2.b9da4210.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.b9da4210.chunk.js.LICENSE.txt",
+    "static/media/01PasswordGenerator.png": "/React_Portfolio/static/media/01PasswordGenerator.c0837231.png",
+    "static/media/02WorkDayScheduler.png": "/React_Portfolio/static/media/02WorkDayScheduler.575771c6.png",
+    "static/media/04WeatherForecast.png": "/React_Portfolio/static/media/04WeatherForecast.c16b95b5.png",
+    "static/media/05StoresNearBy.png": "/React_Portfolio/static/media/05StoresNearBy.648f6477.png",
+    "static/media/05iFindaStore.png": "/React_Portfolio/static/media/05iFindaStore.46985f95.png",
+    "static/media/05iiFindaRecipe.png": "/React_Portfolio/static/media/05iiFindaRecipe.e226c3a4.png",
+    "static/media/07myBurgerHouse.png": "/React_Portfolio/static/media/07myBurgerHouse.b245d306.png",
+    "static/media/SilentAuction_Dashboard.png": "/React_Portfolio/static/media/SilentAuction_Dashboard.a0c0f780.png",
+    "static/media/SilentAuction_Profile.png": "/React_Portfolio/static/media/SilentAuction_Profile.6d9312e2.png",
+    "static/media/SilentAuction_Signup.png": "/React_Portfolio/static/media/SilentAuction_Signup.6cbe9999.png",
+    "static/media/background.jpg": "/React_Portfolio/static/media/background.d558c6f1.jpg",
+    "static/media/employeeDirectory.png": "/React_Portfolio/static/media/employeeDirectory.b8529b65.png",
+    "static/media/noteTaker.png": "/React_Portfolio/static/media/noteTaker.cec5d480.png",
+    "static/media/offlinebudgetTracker.png": "/React_Portfolio/static/media/offlinebudgetTracker.0a0d9402.png",
+    "static/media/profilepic.jpg": "/React_Portfolio/static/media/profilepic.8c48c9a3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a4a4b560.js",
-    "static/js/2.a8b45d86.chunk.js",
-    "static/css/main.45372f12.chunk.css",
-    "static/js/main.1709ceb6.chunk.js"
+    "static/js/2.b9da4210.chunk.js",
+    "static/css/main.b7033f84.chunk.css",
+    "static/js/main.028ab09c.chunk.js"
   ]
 }
