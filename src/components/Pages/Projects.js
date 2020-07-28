@@ -9,7 +9,13 @@ export default class Projects extends Component {
   render() {
     return (
       <div>
-        <h2>Projects</h2>
+        <h1
+        style={{
+          marginTop: -20,
+          marginBottom: 10,
+          textAlign: "left"
+        }}
+        >Recent Projects</h1>
         <hr />
         {this.state.repoData.map((data) => (
           <Portfolio

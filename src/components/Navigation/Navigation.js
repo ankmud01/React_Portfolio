@@ -1,10 +1,10 @@
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Nav } from 'react-bootstrap';
+// import { Nav } from 'react-bootstrap';
 
 export default function Navigation() {
   return (
-    <Nav>
+    <div className='nav'>
       <Link
         to='/'
         className={useLocation.pathname === '/' === 'About' ? 'nav-link-active': 'nav-link'}>
@@ -20,6 +20,6 @@ export default function Navigation() {
         className={useLocation.pathname === '/contact' ? 'nav-link-active' : 'nav-link'}>
         Contact Me
       </Link>
-    </Nav>
+    </div>
   );
 }

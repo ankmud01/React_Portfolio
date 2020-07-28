@@ -1,5 +1,4 @@
 import React from "react";
-import { right } from "@popperjs/core";
 
 export default function About() {
   return (
@@ -11,7 +10,6 @@ export default function About() {
           textAlign: 'center'
         }}>
           About Me
-          <br />
         </h1>
       </div>
       <div className="row">
@@ -25,7 +23,9 @@ export default function About() {
         <div
           className="col-md-8"
           style={{
-            textAlign: "left"
+            textAlign: "left",
+            float:'left'
+            
           }}
         >
           <h2 class="home-heading">
